@@ -1,0 +1,121 @@
+.div-1 {
+    margin-left: 500px;
+    margin-top: 00px;
+    border-color: #222324;
+    margin-right: 500px;
+}
+.div-1 h1 {
+    margin-left: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+}
+.div-1 i {
+    color: #fc0404;
+}
+.div-2 {
+    gap: 30px;
+    display: flex;
+    flex-direction: column;
+}
+.div-1a input {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    width: 250px;
+    margin-left: 10px;
+    border-radius: 7px;
+    border-color: #087cf0;
+    background-color: transparent;
+}
+.div-1a span {
+    margin-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #f7ac0a;
+}
+.div-1b span {
+    margin-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #f79707;
+}
+.div-1b input {
+    display: flex;
+    flex-direction: column;
+    width: 150px;
+    padding: 10px;
+    margin-left: 10px;
+    border-radius: 7px;
+    border-color: #0c7ff3;
+    background-color: transparent;
+}
+.div-3 {
+    padding-top: 40px;
+    margin-left: 10px;
+    border-color: #2b6094;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #087cf0;
+}
+.div-4 {
+    padding-top: 40px;
+    margin-left: 10px;
+}
+.div-4 button {
+    padding: 10px 80px;
+    border-radius: 7px;
+    border-color: #f79707;
+    background-color: transparent;
+    font-size: 18px;
+    color: #f3a806;
+}
+.div-5 {
+    padding-top: 40px;
+    margin-left: 10px;
+}
+.div-5 a {
+    text-decoration: none;
+    color: #099;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.div-6 {
+    padding-top: 40px;
+    margin-left: 10px;
+}
+.div-6 a {
+    text-decoration: none;
+    color: #0996f5;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.div-7 {
+    display: flex;
+    flex-direction: row;
+}
+.div-7 ul {
+    display: flex;
+    list-style: none;
+    gap: 15px;
+}
+.div-7 ul li a 
+{
+    text-decoration: none;
+}
+.div-7 i {
+    font-size: 50px;
+}
+.div-8 footer {
+    margin-left: 650px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #222324;
+}
+.div-9 {
+    margin-left: 200px;
+}
+.img {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.div-11 {
+    background-image: url(pexels-william-choquette-1954524.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
